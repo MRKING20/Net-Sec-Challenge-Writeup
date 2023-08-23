@@ -34,7 +34,7 @@ Q4 + Q5: we need to use this command $ sudo nmap -sS -A  MACHINE_IP (or -sS: for
 
 Q6: we know that the FTP server is listening on a nonstandard port "Port 21 is wrong" so I tried port number 10021 which has an unknown service 
 
-Our is command: $ ftp 10.10.154.144 10021
+Our command is : $ ftp 10.10.154.144 10021
 
 ![Q6](https://github.com/MRKING20/Net-Sec-Challenge-Writeup/assets/64786452/f97c0ae1-90e1-48cf-9db8-d50dc47b313e)
 
