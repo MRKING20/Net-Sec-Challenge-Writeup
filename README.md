@@ -60,6 +60,7 @@ To reduce the probability of being detected, we are going to run a NULL scan usi
 Our command is : $ sudo nmap -sN MACHINE_IP (-sN: for Null Scan)
 
 ![Q8](https://github.com/MRKING20/Net-Sec-Challenge-Writeup/assets/64786452/aee69fc6-3763-4f5f-a1df-d1ba5c7260f9)
+
 The flag appeared instantly after I hit enter to run the scan. Task completed 🙂
 
 Note: If it doesn't work from your local machine, try running nmap on the AttackBox. :)
